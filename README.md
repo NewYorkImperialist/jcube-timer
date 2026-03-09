@@ -1,3 +1,3 @@
 # jcube-timer
 
-Rubik's cube DIY speedstacks timer
+ESP32 Rubik's cube DIY speedstacks timer
